@@ -20,7 +20,8 @@ function draw()
     point(225, 105);
     point(285, 105);
     line(225, 150, 285, 150);
-
+    fill(1,1,1);
+    text("Jake Spencer",210,500 );
 
 
 }
